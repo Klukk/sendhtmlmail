@@ -1,0 +1,19 @@
+C:\Users\admin\Desktop\Can B Deleted\Send Email\snmail\snmail\bin\Debug\snmail.exe.config
+C:\Users\admin\Desktop\Can B Deleted\Send Email\snmail\snmail\bin\Debug\snmail.exe
+C:\Users\admin\Desktop\Can B Deleted\Send Email\snmail\snmail\bin\Debug\snmail.pdb
+C:\Users\admin\Desktop\Can B Deleted\Send Email\snmail\snmail\obj\Debug\snmail.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Can B Deleted\Send Email\snmail\snmail\obj\Debug\snmail.Form1.resources
+C:\Users\admin\Desktop\Can B Deleted\Send Email\snmail\snmail\obj\Debug\snmail.Properties.Resources.resources
+C:\Users\admin\Desktop\Can B Deleted\Send Email\snmail\snmail\obj\Debug\snmail.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Can B Deleted\Send Email\snmail\snmail\obj\Debug\snmail.exe
+C:\Users\admin\Desktop\Can B Deleted\Send Email\snmail\snmail\obj\Debug\snmail.pdb
+C:\Users\Klukk-Asus\Downloads\How to Send Email From C#\snmail\snmail\bin\Debug\snmail.exe.config
+C:\Users\Klukk-Asus\Downloads\How to Send Email From C#\snmail\snmail\bin\Debug\snmail.exe
+C:\Users\Klukk-Asus\Downloads\How to Send Email From C#\snmail\snmail\bin\Debug\snmail.pdb
+C:\Users\Klukk-Asus\Downloads\How to Send Email From C#\snmail\snmail\obj\Debug\snmail.csprojAssemblyReference.cache
+C:\Users\Klukk-Asus\Downloads\How to Send Email From C#\snmail\snmail\obj\Debug\snmail.Form1.resources
+C:\Users\Klukk-Asus\Downloads\How to Send Email From C#\snmail\snmail\obj\Debug\snmail.Properties.Resources.resources
+C:\Users\Klukk-Asus\Downloads\How to Send Email From C#\snmail\snmail\obj\Debug\snmail.csproj.GenerateResource.cache
+C:\Users\Klukk-Asus\Downloads\How to Send Email From C#\snmail\snmail\obj\Debug\snmail.csproj.CoreCompileInputs.cache
+C:\Users\Klukk-Asus\Downloads\How to Send Email From C#\snmail\snmail\obj\Debug\snmail.exe
+C:\Users\Klukk-Asus\Downloads\How to Send Email From C#\snmail\snmail\obj\Debug\snmail.pdb
